@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kombat
+- 👀 I’m interested in making useful files and viruses
+- 🌱 I’m currently learning more about C#
+- 💞️ I’m looking to collaborate on rats
+- 📫 itskombatt on discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: only been coding for 2 months
