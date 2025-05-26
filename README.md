@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on rats
 - 📫 itskombatt on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: only been coding for 2 months
+- ⚡ Fun fact: 2 years of coding experience only
